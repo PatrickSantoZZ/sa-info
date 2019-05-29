@@ -2,6 +2,7 @@
 Shows SA EXP/Hour and other details
 
 Put the "S_RP_SKILL_POLISHING_EXP_INFO.1.def" file into your tera-proxy\node_modules\tera-data\protocol\ folder.
+Go in the "map" folder and put the files from there into tera-proxy\node_modules\tera-data\map\ folder.
 
 Get the Opcodes from https://github.com/TerableCoder/Tera-NA-Opcodes
 
